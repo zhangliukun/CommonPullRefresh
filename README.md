@@ -12,10 +12,16 @@ I am studying how to publish this widget to the Jcenter and the mavenCenter now,
 ## Screenshots
 
 - pull refresh common view
+
+![refresh3](http://img.blog.csdn.net/20160302195215481)
+
 - pull refresh scrollview
+
+![refresh1](http://img.blog.csdn.net/20160302195028273)
+
 - pull refresh listview
 
-![refresh3](http://img.blog.csdn.net/20160302195215481)![refresh1](http://img.blog.csdn.net/20160302195028273)![refresh2](http://img.blog.csdn.net/20160302195142277)
+![refresh2](http://img.blog.csdn.net/20160302195142277)
 
 ## Usage
 
