@@ -10,14 +10,12 @@ callback to you in the headview for your own animation.you just need to follow t
 I am studying how to publish this widget to the Jcenter and the mavenCenter now,so you will see the dependency soon or later.
 
 ## Screenshots
+
 - pull refresh common view
-![refresh3](http://img.blog.csdn.net/20160302195215481)
-
 - pull refresh scrollview
-![refresh1](http://img.blog.csdn.net/20160302195028273)
-
 - pull refresh listview
-![refresh2](http://img.blog.csdn.net/20160302195142277)
+
+![refresh3](http://img.blog.csdn.net/20160302195215481)![refresh1](http://img.blog.csdn.net/20160302195028273)![refresh2](http://img.blog.csdn.net/20160302195142277)
 
 ## Usage
 
