@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">BigDemo</string>
+
+    <string name="fr_loading">正在加载</string>
+
+
+    <string name="multi_disk_selected_text">上传(%1$s/%2$s)</string>
+    <string name="running_face_detection">加载中，请稍后\u2026</string>
+    <string name="wallpaper">设置为壁纸，请稍后\u2026</string>
+    <string name="saving_image">图片存储中\u2026</string>
+    <string name="select_album">选择相册</string>
+    <string name="select">选择</string>
+    <string name="start_capture">拍照</string>
+    <string name="multi_picture_selected_full">不能再选了哦</string>
+    <string name="multi_picture_selected_text">发送(%1$s/%2$s)</string>
+    <string name="multi_picture_all">所有图片</string>
+    <string name="pre_view">预览</string>
+    <string name="pre_view_desc">预览(%1$s)</string>
+    <string name="complete">完成</string>
+    <string name="cancel">取消</string>
+    <string name="disk_upload2">上传</string>
+    <string name="send">发送</string>
+    <string name="confirm">确认</string>
+    <string name="desktop_text">当你娱乐的时候，要知道有多少厉害的人正在更加厉害</string>
+    <string name="cannt_create_empty_note">不能创建空的便签</string>
+    <string name="input_new_note">请输入新的便签</string>
+    <string name="accept">确定</string>
+    <string name="pull_down_refresh">下拉刷新</string>
+
+    <!--action_calibrate -->
+    <string name="recording">&#160;&#160;&#160;正在录音...</string>
+    <string name="cancelrecord">手指下滑取消发送</string>
+
+    <string name="pull_refresh_view">普通view的下拉刷新</string>
+    <string name="pull_refresh_listView">listview的下拉刷新</string>
+    <string name="pull_scroll_listView">scrollview的下拉刷新</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_size_media_small">11sp</dimen>
+    <dimen name="picture_select_padding">3dp</dimen>
+    <dimen name="activity_horizontal_margin">15dp</dimen>
+    <dimen name="title_height">50dp</dimen>
+    <dimen name="text_size_media_big">18sp</dimen>
+    <dimen name="text_size_media">16sp</dimen>
+    <dimen name="voice_line_width">1dp</dimen>
+
+    <!--toolBar -->
+    <dimen name="toolBar_padding_left">15dp</dimen>
+    <dimen name="toolBar_height">60dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+
+    <!-- 顶部 导航栏高度 -->
+
+    <!-- 应用边距尺寸 -->
+    <!-- 30 ~ 32px -->
+    <!-- 20 ~ 24px -->
+    <!-- 14 ~ 18px -->
+    <!-- <14px -->
+
+    <!-- 顶部 导航栏标题字体大小 -->
+    <!-- 顶部 导航栏标题字体大小 -->
+
+
+    <dimen name="record_text_size">17sp</dimen>
+
+</resources>

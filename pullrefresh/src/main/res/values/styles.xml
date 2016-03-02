@@ -1,0 +1,30 @@
+<resources>
+
+
+    <style name="activity_push">
+        <item name="android:activityOpenEnterAnimation">@anim/push_left_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/push_right_out</item>
+        <item name="android:activityCloseExitAnimation">@anim/push_right_in</item>
+    </style>
+
+    <style name="title_layout_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/title_height</item>
+        <item name="android:background">@color/youban_background</item>
+    </style>
+
+    <style name="title_textview_style">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:maxWidth">200dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/ad_text_color</item>
+        <item name="android:textSize">@dimen/text_size_media_big</item>
+        <item name="android:layout_marginLeft">@dimen/title_height</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@color/schedule_time_eve">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/pull_down_refresh"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        android:id="@+id/state" />
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toLeftOf="@id/state"
+        android:layout_alignBottom="@id/state"
+        android:layout_alignTop="@id/state"
+        android:layout_marginRight="10dp"
+        android:src="@drawable/ic_arrow_up"
+        android:id="@+id/arrow_image" />
+
+
+</RelativeLayout>

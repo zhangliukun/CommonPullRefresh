@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="zalezone.commonproject.MainActivity">
+    <item
+        android:id="@+id/pull_refresh_view"
+        android:orderInCategory="100"
+        android:title="@string/pull_refresh_view"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/pull_refresh_listview"
+        android:orderInCategory="100"
+        android:title="@string/pull_refresh_listView"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/pull_scroll_listview"
+        android:orderInCategory="100"
+        android:title="@string/pull_scroll_listView"
+        app:showAsAction="never" />
+</menu>

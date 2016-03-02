@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="VoiceView">
+        <attr name="maxHeight" format="dimension|reference"/>
+        <attr name="lineColor" format="color|reference"/>
+        <attr name="playColor" format="color|reference"/>
+        <attr name="lineWidth" format="dimension|reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="PullContainer">
+        <attr name="layoutMarginLeft" format="dimension|reference"/>
+        <attr name="layoutMarginRight" format="dimension|reference"/>
+    </declare-styleable>
+
+    <declare-styleable name="CommonRing">
+        <attr name="commonRingRoundColor" format="color"/>
+        <attr name="commonRingRoundProgressColor" format="color" />
+        <attr name="commonRingRoundWidth" format="dimension"/>
+        <attr name="commonRingMax" format="integer"/>
+        <attr name="commonRingType">
+            <enum name="STROKE" value="1"></enum>
+            <enum name="FILL" value="0"></enum>
+        </attr>
+    </declare-styleable>
+
+</resources>

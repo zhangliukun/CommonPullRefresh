@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="white_gray">#aba6a6</color>
+
+    <color name="toolbar_bg">#4876FF</color>
+    <color name="state_title_bg">#3A5FCD</color>
+    <color name="window_bg">#ffffff</color>
+    <color name="footbar_press">#FF48B2CD</color>
+
+    <color name="voice_normal">#a4a3a3</color>
+    <color name="voice_listen">#fa565a</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="note_text_desktop_color">#ff80777f</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="title_btn_pressed">#e3e3e3</color>
+    <color name="ad_text_color">#222222</color>
+    <color name="grey">#ffacacac</color>
+    <color name="green">#ff58ce2e</color>
+
+    <color name="schedule_time_eve">#fda4a5</color>
+
+    <color name="youban_background">#f2f2f2</color>
+
+    <!--disk-->
+    <color name="message2">#86d2ed</color>
+
+</resources>
