@@ -10,8 +10,14 @@ callback to you in the headview for your own animation.you just need to follow t
 I am studying how to publish this widget to the Jcenter and the mavenCenter now,so you will see the dependency soon or later.
 
 ## Screenshots
-Though the view of the widget is not very beautiful,this widget functions well.
-![refresh1](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh1.gif)![refresh2](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh2.gif)![refresh3](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh3.gif)
+- pull refresh common view
+![refresh3](http://img.blog.csdn.net/20160302195215481)
+
+- pull refresh scrollview
+![refresh1](http://img.blog.csdn.net/20160302195028273)
+
+- pull refresh listview
+![refresh2](http://img.blog.csdn.net/20160302195142277)
 
 ## Usage
 
