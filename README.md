@@ -11,7 +11,7 @@ I am studying how to publish this widget to the Jcenter and the mavenCenter now,
 
 ## Screenshots
 Though the view of the widget is not very beautiful,this widget functions well.
-![screenshots](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefreshshow.gif)
+![refresh1](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh1.gif)![refresh2](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh2.gif)![refresh3](https://github.com/zhangliukun/zhangliukun.github.io/tree/master/image/pullrefresh3.gif)
 
 ## Usage
 
